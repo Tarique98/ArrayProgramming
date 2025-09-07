@@ -1,1 +1,1 @@
-package arrayProgramming;
+package stringprog;
